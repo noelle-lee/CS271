@@ -1,5 +1,5 @@
 # CS271
-My projects from CS 271 at Oregon State University. All projects are written in MASM. 
+My projects from CS 271 at Oregon State University. All projects are written in assembly. 
 
 There are 5 MASM projects for this course: 
 1) Basic Logic and Arithmetic Program
